@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+        <title>315 Candles</title>
+   </head>
+   <body>
+      <header>
+         <hgroup>
+           <h1> 315Candles.com</h1>
+           <h4>Breath in the nostalgia</h4>
+         </hgroup>
+       </header>
+      <nav>
+          <!-- links for menu go here -->
+      </nav>
+      <main>
+
+      </main>
+      <footer>
+         <!-- Footer information should include your name and a copyright statement.-->
+      </footer>
+   </body>
+</html>
